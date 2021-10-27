@@ -4,7 +4,7 @@
   - I'm comfortable using Bootstrap, CSS (including Flexbox and Grid), Flask, HTML, JavaScript ES6, Jinja, JSON, Python, PHP, SQL, and SQLAlchemy. 
   - I also have exposure to Java, jQuery Mobile, Rust, WebAssembly, and WordPress theme development. 
 - :memo: I'm also interested in [UX design and research](https://valeriehosler.com/Virtual-Opera-Web-App-Research-Design.pdf).
-- 🌱 I’m currently learning React, Node.js, Alexa Skill Kit, and WCAG 2.1.
+- 🌱 I’m currently learning React, Node.js, and WCAG 2.1.
 - 📫 Reach me at val.l.hosler@gmail.com.
 - :briefcase: Check out my [LinkedIn](https://linkedin.com/in/valhos/).
 
