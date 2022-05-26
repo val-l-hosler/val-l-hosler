@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Valerie Hosler.
 - :school: I'm a Frontend Software Developer at CGI on a project at a Fortune 500 company.
 - :toolbox: My Tech Stack:
-  - I'm comfortable using Angular 13, Angular Material UI, CSS, HTML, JavaScript, MUI, PHP, ReactJS, RxJS, and TypeScript. 
+  - I'm comfortable using Angular 13, Angular Material UI, CSS, HTML, JavaScript, MUI, ReactJS, RxJS, and TypeScript. 
 - 🌱 I’m currently learning NgRx, Sass, and WCAG 2.1.
 - 📫 Reach me at val.l.hosler@gmail.com.
 - :briefcase: Check out my [LinkedIn](https://linkedin.com/in/valhos/).
