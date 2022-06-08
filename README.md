@@ -4,6 +4,7 @@
   - I'm comfortable using Angular 13, Angular Material UI, CSS, HTML, JavaScript, MUI, ReactJS, RxJS, and TypeScript. 
 - 🌱 I’m currently learning NgRx, Sass, and WCAG 2.1.
 - :school: Completed courses
+- * [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
   * [Reactive Angular with NgRx](https://frontendmasters.com/courses/angular-reactive/)
   * [Angular 13 Fundamentals](https://frontendmasters.com/courses/angular-13/)
   * [Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
